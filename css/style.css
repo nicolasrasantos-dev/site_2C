@@ -7,10 +7,22 @@ body{
     background: linear-gradient(to right, rgb(0, 138, 96),rgb(0, 120, 175) ,rgb(3, 0, 170) );
     color: white;
     font-size: 1.5rem;
+    text-align: center;
 }
 
 a{
+    text-align: center;
     text-decoration: none;
     color: white;
 
+}
+
+input,button{
+    background-color: black;
+    color: green;
+    padding: 4px;
+}
+
+button{
+    border-radius: 8px;
 }
