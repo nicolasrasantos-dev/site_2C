@@ -4,6 +4,13 @@
 }
 
 body{
-    background: linear-gradient(to right, rgb(0, 138, 96),black ,rgb(170, 0, 0) );
+    background: linear-gradient(to right, rgb(0, 138, 96),rgb(0, 120, 175) ,rgb(3, 0, 170) );
     color: white;
+    font-size: 1.5rem;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+
 }
